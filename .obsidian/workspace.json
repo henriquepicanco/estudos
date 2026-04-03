@@ -4,81 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cb8e77c35e9c9fa0",
+        "id": "9af1c9e2f0a35b07",
         "type": "tabs",
         "children": [
           {
-            "id": "8496e20b959e81bc",
+            "id": "eac5f9f4f9b03d07",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "c2ba08ce0a75c5df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "O que é HTML.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "O que é HTML"
-            }
-          },
-          {
-            "id": "6cc69fd19ac21aac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML - Cabeçalhos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTML - Cabeçalhos"
-            }
-          },
-          {
-            "id": "a9fb633da0a4a7d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTML - Parágrafos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTML - Parágrafos"
-            }
-          },
-          {
-            "id": "d15d9a10b2a4c55d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,14 +195,17 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d15d9a10b2a4c55d",
+  "active": "eac5f9f4f9b03d07",
   "lastOpenFiles": [
-    "Como a internet funciona.md",
+    "README.md",
     "O que é HTML.md",
     "HTML - Cabeçalhos.md",
     "HTML - Parágrafos.md",
+    "HTML - Listas.md",
+    "HTML - Aninhamento e indentação.md",
+    "HTML - Âncoras.md",
+    "Como a internet funciona.md",
     "HTML - Elementos void.md",
-    "Como os websites funcionam.md",
-    "README.md"
+    "Como os websites funcionam.md"
   ]
 }
